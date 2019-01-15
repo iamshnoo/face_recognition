@@ -7,4 +7,4 @@ Anjishnu Mukherjee and Debdeep Nayak
 # Dataset
 We created our own dataset by writing a python script to extract faces from 
 videos of our friends, who gave their permission for us to use the videos for
-this purpose.
+this purpose. The images so obtained are stored in the Faces folder.
